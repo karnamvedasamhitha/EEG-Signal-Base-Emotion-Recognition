@@ -1,0 +1,4 @@
+Emotion recognition is an emerging field of research and modalities like images, videos, speech, text, physiological signals, and EEG are used for the same. In this work, EEG based emotion recognition has been proposed using deep learning
+models. The recognition of emotion from EEG has attracted a lot of interest and has been applied in numerous fields, particularly in health, technology, and computing. In this work, two methods are proposed for emotion recognition from EEG signals, viz., 
+a signal-based approach and an image conversion approach. The accuracy achieved by the models CNN+GRU, 2D- CNN and LSTM are 96.54%, 90.58%, and 87%, respectively. This work also addresses some of the issues related to model deployment,
+how to deal with logical and causal relations, and how to implement the outcomes in a real-time environment.
